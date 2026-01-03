@@ -4,3 +4,5 @@ requests-cache
 retry-requests
 pandas
 pydantic
+gpxpy
+geopy
